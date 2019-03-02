@@ -1,0 +1,8 @@
+hello
+How are you ?
+I am fine,thank you , and you?
+I am OK!
+I am wanmgpengtao,what's you name?
+my name is Jim,what are you doing?
+i am a computer engineer,and you?
+...
