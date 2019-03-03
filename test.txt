@@ -1,10 +1,10 @@
-hello
-How are you ?
-I am fine,thank you , and you?
-I am OK!
-I am wanmgpengtao,what's you name?
-my name is Jim,what are you doing?
-i am a computer engineer,and you?
-I am a student
-Are you student?
-yes
+me : hello
+you: How are you ?
+me : I am fine,thank you , and you?
+you: I am OK!
+me : I am wanmgpengtao,what's you name?
+you: my name is Jim,what are you doing?
+me : i am a computer engineer,and you?
+you: I am a student
+me : Are you student?
+you: yes!
