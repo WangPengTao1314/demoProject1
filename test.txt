@@ -8,3 +8,9 @@ me : i am a computer engineer,and you?
 you: I am a student
 me : Are you student?
 you: yes!
+me : Who are you ? WHat's you name?
+you: I am King
+me : King???
+you: Yes
+me : no no no ,I don't believe
+
