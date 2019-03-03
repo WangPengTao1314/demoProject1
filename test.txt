@@ -15,4 +15,6 @@ you: Yes
 me : no no no ,I don't believe
 you: Why not ?
 me : Noting Nothing 
-..
+you: shut up ,shut up ,go always
+me : again
+...
